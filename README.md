@@ -1,4 +1,4 @@
-<h1 align="center">Welcome👋, I'm Mo</h1>
+<h1 align="center">Welcome👋</h1>
 <a href="mailto:malshalan65@gmail.com">
   <img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/gmail-badge.svg" title="Gmail" alt="Gmail" height="24" style="max-width: 100%;">
 <a href="https://www.linkedin.com/in/mohammed-al-shalan-438460228/">
