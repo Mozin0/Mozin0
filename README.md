@@ -9,7 +9,7 @@
 
 <h3>About me:</h3>
 <p>
-I am a computer science student in my second year at university, specializing in C# development. I strive to use technology to create solutions for real-world problems, leveraging the power and versatility of C#. I stay physically and mentally active in my free time by working out and continuously learning new skills. I am eager for new challenges and opportunities to grow and make a positive impact.
+I am a computer science graduate with expertise in various programming languages, including C#, .NET, Python, and JavaScript. Additionally, I possess proficiency in cloud technologies such as Azure and am well-versed in Scrum Agile methodologies. I strive to use technology to create solutions for real-world problems, leveraging the power and versatility of my skills. Beyond my professional pursuits, I prioritize maintaining a balanced lifestyle by staying physically and mentally active. Whether hitting the gym or diving into new knowledge domains, I embrace opportunities for growth and self-improvement.
 </p>
 
 <h3>Languages and Tools:</h3>
